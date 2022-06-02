@@ -39,7 +39,7 @@ mail_out_port = 465
 mail_in = "imap.mail.ru"
 mail_in_port = 993
 
-token = '5356138412:AAHFSB4Gf-B91xDb3e4hpet9c10AKKMIaIM' #здесь надо настроить токен бота
+token = 'token' #здесь надо настроить токен бота
 bot = telebot.TeleBot(token)
 
 path_to_file = "clients.csv"
